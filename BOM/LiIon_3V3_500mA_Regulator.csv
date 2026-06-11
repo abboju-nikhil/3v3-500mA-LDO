@@ -1,0 +1,15 @@
+Reference,Value,Description,Manufacturer,MPN
+C1,22uF/16V,22 uF +/-20% 16V Ceramic Capacitor X5R 0805 (2012 Metric),Samsung Electro-Mechanics,CL21A226MOQNNNE
+"C2,C4",100nF/16V,CAP CER 0.1UF 16V X7R 0603,Murata Electronics,GCM188R71C104KA37J
+C3,10uF/16V,CAP CER 10UF 16V X7R 0805,Murata Electronics,GRM21BZ71C106KE15L
+D1,SMAJ5.0CA,"400W bidirectional Transient Voltage Suppressor, 5.0Vr, SMA(DO-214AC)",LITTELFUSE,SMAJ5.0CA
+D2,6.8V,"Zener Diode 6.8V, 500mW, SOD-123",Diodes Incorporated,BZT52C6V8-7-F
+D3,LTST-C190KGKT,"Green Indicator LED, 0603",Lite-On,LTST-C190KGKT
+F1,MF-NSMF110-2,"Fuse, PTC, Resettable, SMD, 1206, 1.1A Bourns 1.1A Surface Mount Resettable Fuse, 6 V",Bourns,MF-NSMF110-2
+J1,JST-PH 2PIN,"2-Pin PH Connector Header, 2.0mm Pitch",JST Sales America Inc.,B2B-PH-K-S
+J2,2 PIN HEADER,"2-Pin Header, 2.54mm Pitch, THT",Molex,22-23-2021
+Q1,DMP2035U-7,"P-CH MOSFET, -20V, -3.6A, SOT-23",Diodes Incorporated,DMP2035U-7
+R1,100K,RES 100K OHM 1% 1/10W 0603,YAGEO,RC0603FR-07100KL
+R2,10K,RES 10K OHM 1% 1/10W 0603,YAGEO,RC0603FR-0710KL
+"TP1,TP2,TP3","GND,V_IN,V_OUT",test point,,
+U1,LP5912-3.3DRVR,"Low-Noise 3.3V LDO, 500mA, WSON-6",Texas Instruments,LP5912-3.3DRVR 

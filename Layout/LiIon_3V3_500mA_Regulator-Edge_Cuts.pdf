@@ -1,0 +1,681 @@
+%PDF-1.5
+%ÄÅÇÉ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+x⁄}TKn[1‹ÁÔIÒ#ù @ñÈ∫(P4õnz˝R"≈< v`6GEŒå¿ËÇı˘¸˚Û„¬ÎÕøøcÂ˙˚+ˇºø^£uV÷ÎﬂÀóµŒ¶C|≥ £µ~Ò@°∆◊«µ_uÑ†∑y˝YÈﬁC"wÛΩ<:à„Ò”s!¬æ≤£fé0PƒS˜fs|!B‹p![Ïë&éHœx¬æWv¨4v¨¿m¢sÁ–Æô√êvı™ßzì<5ŒÕ√Î^’XV;d›kDyfÓŒÈ±>%™7Ü»A.K‰‡˛ V[5>è59=±`5ÓÙêlwr™Z4rd›™Éxü9Ω9bådˇŒˆÕÍ·»…S…£#ì6L´ÅﬂM•Ñ«Œ°ﬁ¥rdËﬁqÙTCÑ“€#ö[ˇ„GXˆâ„Gí’ï«^3ﬁú∑Ÿ;¬ùﬂ"û~6yäÏÃ»0¸˜v7v±{uÿAO?—íÿ…≤:DÇô’%à ŸQÚÑæ)ò=L"ÿ<z◊å	=pyÔö¡4IÖRWòúÌaRﬁ~¸”u’ªá`åôß“e0ÃÚˆt¢#©ÌÒ™∑7ƒÂıgÒy-ï±ﬁS›ö/ÆÍ™7Yµ◊ª≠˛Ímı˛ãßö≈eMë‚ªÊLiR≥®t´yU⁄÷D+˝kÍïCj2ñãjv¶œj∫ñkó[øA ı?^˛πÇ<
+endstream
+endobj
+6 0 obj
+516
+endobj
+24 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R]
+endobj
+25 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 24 0 R>>
+endobj
+26 0 obj
+<</S /GoTo /D [25 0 R /Fit]
+>>
+endobj
+29 0 obj
+<</S /GoTo /D [25 0 R /FitR 443 316 460 308]
+>>
+endobj
+31 0 obj
+<</S /GoTo /D [25 0 R /FitR 399 318 432 307]
+>>
+endobj
+33 0 obj
+<</S /GoTo /D [25 0 R /FitR 392 342 412 293]
+>>
+endobj
+35 0 obj
+<</S /GoTo /D [25 0 R /FitR 373 337 405 300]
+>>
+endobj
+37 0 obj
+<</S /GoTo /D [25 0 R /FitR 418 330 429 311]
+>>
+endobj
+39 0 obj
+<</S /GoTo /D [25 0 R /FitR 439 329 447 312]
+>>
+endobj
+41 0 obj
+<</S /GoTo /D [25 0 R /FitR 409 356 432 324]
+>>
+endobj
+43 0 obj
+<</S /GoTo /D [25 0 R /FitR 397 339 424 308]
+>>
+endobj
+45 0 obj
+<</S /GoTo /D [25 0 R /FitR 431 313 465 298]
+>>
+endobj
+47 0 obj
+<</S /GoTo /D [25 0 R /FitR 405 314 414 297]
+>>
+endobj
+49 0 obj
+<</S /GoTo /D [25 0 R /FitR 446 356 465 323]
+>>
+endobj
+51 0 obj
+<</S /GoTo /D [25 0 R /FitR 443 330 454 311]
+>>
+endobj
+53 0 obj
+<</S /GoTo /D [25 0 R /FitR 440 341 487 298]
+>>
+endobj
+55 0 obj
+<</S /GoTo /D [25 0 R /FitR 427 335 445 306]
+>>
+endobj
+57 0 obj
+<</S /GoTo /D [25 0 R /FitR 424 329 433 312]
+>>
+endobj
+59 0 obj
+<</S /GoTo /D [25 0 R /FitR 381 348 408 324]
+>>
+endobj
+61 0 obj
+<</S /GoTo /D [25 0 R /FitR 430 356 447 324]
+>>
+endobj
+2 0 obj
+<<
+>>
+endobj
+3 0 obj
+<<
+
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [447.911 310.361 456.443 314.642]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R2"],
+["Value = 10K"],
+["Footprint = R_0603_1608Metric"],
+["Description = Resistor"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [407.912 310.372 422.714 316.071]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = D2"],
+["Value = D2"],
+["Footprint = SOD123_DIO"],
+["Datasheet = BZT52C6V8-7-F"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [397.466 309.853 407.529 329.965]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = D1"],
+["Value = SMAJ5.0CA"],
+["Footprint = D_SMA"],
+["Datasheet = https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet", "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"],
+["Description = 400W bidirectional Transient Voltage Suppressor, 5.0Vr, SMA\\u0028DO-214AC\\u0029"],
+["Height = 2.29"],
+["Mouser Part Number = 576-SMAJ5.0CA"],
+["Mouser Price/Stock = https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ5.0CA?qs=JJML70Qc14u8hb22RFwTwA%3D%3D", "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ5.0CA?qs=JJML70Qc14u8hb22RFwTwA%3D%3D"],
+["Manufacturer_Name = LITTELFUSE"],
+["Manufacturer_Part_Number = SMAJ5.0CA"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [381.653 309.694 397.739 327.977]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J1"],
+["Value = JST-PH 2PIN"],
+["Footprint = B2B-PH-K-S"],
+["Description = Generic connector, single row, 01x02, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [420.96 315.964 426.658 325.743]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C1"],
+["Value = 22uF/16V"],
+["Footprint = C_0805_2012Metric"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [441.253 316.299 445.533 324.832]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C4"],
+["Value = 100nF/16V"],
+["Footprint = C_0603_1608Metric"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [415.299 332.647 422.527 339.876]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = TP1"],
+["Value = V_IN"],
+["Footprint = TestPoint_THTPad_D1.5mm_Drill0.7mm"],
+["Description = test point"],
+]\);) >>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [404.477 316.39 418.085 327.334]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = Q1"],
+["Value = DMP2035U-7"],
+["Footprint = DMP2035U-7"],
+["Datasheet = DMP2035U-7"],
+]\);) >>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [447.431 304.769 457.211 310.154]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = D3"],
+["Value = LTST-C190KGKT"],
+["Footprint = LEDC1608X80N"],
+["Description = Lite-On LTST-C190KGKT, 571 nm Green LED, 1608 \\u00280603\\u0029 SMD package"],
+["Height = 0.8"],
+["Mouser Part Number = 859-LTST-C190KGKT"],
+["Mouser Price/Stock = https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C190KGKT?qs=205qCy6M2Q%252BAdcgwUZktqw%3D%3D", "https://www.mouser.co.uk/ProductDetail/Lite-On/LTST-C190KGKT?qs=205qCy6M2Q%252BAdcgwUZktqw%3D%3D"],
+["Manufacturer_Name = Lite-On"],
+["Manufacturer_Part_Number = LTST-C190KGKT"],
+]\);) >>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [407.989 301.502 412.269 310.034]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R1"],
+["Value = 100K"],
+["Footprint = R_0603_1608Metric"],
+["Description = Resistor"],
+]\);) >>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [453.747 331.927 460.975 339.156]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = TP2"],
+["Value = V_OUT"],
+["Footprint = TestPoint_THTPad_D1.5mm_Drill0.7mm"],
+["Description = test point"],
+]\);) >>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [446.016 315.964 451.714 325.743]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C3"],
+["Value = 10uF/16V"],
+["Footprint = C_0805_2012Metric"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+19 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [452.546 315.261 472.105 330.795]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J2"],
+["Value = 2 PIN HEADER"],
+["Footprint = 22-23-2021"],
+["Description = Generic connector, single row, 01x02, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [432.029 314.188 441.117 324.109]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U1"],
+["Value = LP5912-3.3DRVR"],
+["Footprint = U1"],
+["Datasheet = https://www.ti.com/lit/gpn/lp5912", "https://www.ti.com/lit/gpn/lp5912"],
+]\);) >>
+>>
+endobj
+21 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [426.853 316.336 431.133 324.869]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C2"],
+["Value = 100nF/16V"],
+["Footprint = C_0603_1608Metric"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+22 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [388.534 330.31 401.772 337.029]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = F1"],
+["Value = MF-NSMF110-2"],
+["Footprint = FUSC3216X70N"],
+["Datasheet = https://componentsearchengine.com/Datasheets/2/MF-NSMF110-2.pdf", "https://componentsearchengine.com/Datasheets/2/MF-NSMF110-2.pdf"],
+["Description = Fuse, PTC, Resettable, SMD, 1206, 1.1A Bourns 1.1A Surface Mount Resettable Fuse, 6 V"],
+["Height = 0.7"],
+["Mouser Part Number = 652-MF-NSMF110-2"],
+["Mouser Price/Stock = https://www.mouser.co.uk/ProductDetail/Bourns/MF-NSMF110-2?qs=78xkMtwow2zgSbc2Qx8dhg%3D%3D", "https://www.mouser.co.uk/ProductDetail/Bourns/MF-NSMF110-2?qs=78xkMtwow2zgSbc2Qx8dhg%3D%3D"],
+["Manufacturer_Name = Bourns"],
+["Manufacturer_Part_Number = MF-NSMF110-2"],
+]\);) >>
+>>
+endobj
+23 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [435.098 332.114 442.327 339.343]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = TP3"],
+["Value = GND"],
+["Footprint = TestPoint_THTPad_D1.5mm_Drill0.7mm"],
+["Description = test point"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i = 0; i < aEntries.length; ++i\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i].length > 1 ? aEntries[i][1] : ''
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice == null || cChoice == ''\) return;
+
+    if \(cChoice.substring\(0, 1\) == '#'\) {
+        this.pageNum = parseInt\(cChoice.slice\(1\)\);
+        return;
+    }
+
+    // Fallback: some viewers return cName instead of cReturn
+    var url = cChoice;
+    if \(url.substring\(0, 4\) != 'http' && url.substring\(0, 4\) != 'file'\) {
+        var idx = url.indexOf\('http'\);
+        if \(idx < 0\) idx = url.indexOf\('file:'\);
+        if \(idx >= 0\) url = url.substring\(idx\);
+        else return;
+    }
+
+    if \(url.substring\(0, 8\) == 'file:///'\) app.openDoc\(url.substring\(7\)\);
+    else if \(url.substring\(0, 7\) == 'file://'\) app.openDoc\('//' + url.substring\(7\)\);
+    else app.launchURL\(url\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+25 0 R
+]
+/Count 1
+>>
+endobj
+63 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:2026:06:09:22:07:38)
+/Creator (PCBNEW)
+/Title (Single-Cell Li-Ion 3.3V / 500mA Regulator Board)
+/Author ()
+/Subject ()
+>>
+endobj
+38 0 obj
+<<
+/Title (C1)
+/Parent 28 0 R
+/Next 58 0 R
+/A 37 0 R
+>>
+endobj
+58 0 obj
+<<
+/Title (C2)
+/Parent 28 0 R
+/Next 52 0 R
+/Prev 38 0 R
+/A 57 0 R
+>>
+endobj
+52 0 obj
+<<
+/Title (C3)
+/Parent 28 0 R
+/Next 40 0 R
+/Prev 58 0 R
+/A 51 0 R
+>>
+endobj
+40 0 obj
+<<
+/Title (C4)
+/Parent 28 0 R
+/Next 34 0 R
+/Prev 52 0 R
+/A 39 0 R
+>>
+endobj
+34 0 obj
+<<
+/Title (D1)
+/Parent 28 0 R
+/Next 32 0 R
+/Prev 40 0 R
+/A 33 0 R
+>>
+endobj
+32 0 obj
+<<
+/Title (D2)
+/Parent 28 0 R
+/Next 46 0 R
+/Prev 34 0 R
+/A 31 0 R
+>>
+endobj
+46 0 obj
+<<
+/Title (D3)
+/Parent 28 0 R
+/Next 60 0 R
+/Prev 32 0 R
+/A 45 0 R
+>>
+endobj
+60 0 obj
+<<
+/Title (F1)
+/Parent 28 0 R
+/Next 36 0 R
+/Prev 46 0 R
+/A 59 0 R
+>>
+endobj
+36 0 obj
+<<
+/Title (J1)
+/Parent 28 0 R
+/Next 54 0 R
+/Prev 60 0 R
+/A 35 0 R
+>>
+endobj
+54 0 obj
+<<
+/Title (J2)
+/Parent 28 0 R
+/Next 44 0 R
+/Prev 36 0 R
+/A 53 0 R
+>>
+endobj
+44 0 obj
+<<
+/Title (Q1)
+/Parent 28 0 R
+/Next 48 0 R
+/Prev 54 0 R
+/A 43 0 R
+>>
+endobj
+48 0 obj
+<<
+/Title (R1)
+/Parent 28 0 R
+/Next 30 0 R
+/Prev 44 0 R
+/A 47 0 R
+>>
+endobj
+30 0 obj
+<<
+/Title (R2)
+/Parent 28 0 R
+/Next 42 0 R
+/Prev 48 0 R
+/A 29 0 R
+>>
+endobj
+42 0 obj
+<<
+/Title (TP1)
+/Parent 28 0 R
+/Next 50 0 R
+/Prev 30 0 R
+/A 41 0 R
+>>
+endobj
+50 0 obj
+<<
+/Title (TP2)
+/Parent 28 0 R
+/Next 62 0 R
+/Prev 42 0 R
+/A 49 0 R
+>>
+endobj
+62 0 obj
+<<
+/Title (TP3)
+/Parent 28 0 R
+/Next 56 0 R
+/Prev 50 0 R
+/A 61 0 R
+>>
+endobj
+56 0 obj
+<<
+/Title (U1)
+/Parent 28 0 R
+/Prev 62 0 R
+/A 55 0 R
+>>
+endobj
+28 0 obj
+<<
+/Title (Footprints)
+/Parent 27 0 R
+/Count -17
+/First 38 0 R
+/Last 56 0 R
+/A 26 0 R
+>>
+endobj
+27 0 obj
+<<
+/Title (Edge.Cuts \(Page 8\))
+/Parent 64 0 R
+/Count -1
+/First 28 0 R
+/Last 28 0 R
+/A 26 0 R
+>>
+endobj
+64 0 obj
+<< /Type /Outlines
+   /Count 19
+   /First 27 0 R
+   /Last 27 0 R
+>>
+endobj
+65 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 64 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 66
+0000000000 65535 f 
+0000010047 00000 n 
+0000002097 00000 n 
+0000002118 00000 n 
+0000008915 00000 n 
+0000000015 00000 n 
+0000000605 00000 n 
+0000002140 00000 n 
+0000002414 00000 n 
+0000002683 00000 n 
+0000003644 00000 n 
+0000004026 00000 n 
+0000004318 00000 n 
+0000004612 00000 n 
+0000004908 00000 n 
+0000005182 00000 n 
+0000005894 00000 n 
+0000006170 00000 n 
+0000006467 00000 n 
+0000006760 00000 n 
+0000007143 00000 n 
+0000007474 00000 n 
+0000007768 00000 n 
+0000008620 00000 n 
+0000000624 00000 n 
+0000000758 00000 n 
+0000000962 00000 n 
+0000011814 00000 n 
+0000011709 00000 n 
+0000001009 00000 n 
+0000011294 00000 n 
+0000001073 00000 n 
+0000010699 00000 n 
+0000001137 00000 n 
+0000010614 00000 n 
+0000001201 00000 n 
+0000010954 00000 n 
+0000001265 00000 n 
+0000010287 00000 n 
+0000001329 00000 n 
+0000010529 00000 n 
+0000001393 00000 n 
+0000011379 00000 n 
+0000001457 00000 n 
+0000011124 00000 n 
+0000001521 00000 n 
+0000010784 00000 n 
+0000001585 00000 n 
+0000011209 00000 n 
+0000001649 00000 n 
+0000011465 00000 n 
+0000001713 00000 n 
+0000010444 00000 n 
+0000001777 00000 n 
+0000011039 00000 n 
+0000001841 00000 n 
+0000011637 00000 n 
+0000001905 00000 n 
+0000010359 00000 n 
+0000001969 00000 n 
+0000010869 00000 n 
+0000002033 00000 n 
+0000011551 00000 n 
+0000010107 00000 n 
+0000011928 00000 n 
+0000012012 00000 n 
+trailer
+<< /Size 66 /Root 65 0 R /Info 63 0 R >>
+startxref
+12153
+%%EOF
